@@ -1,7 +1,7 @@
 {
 	"name": "ts-react-i18next",
 	"description": "strongly typed react-i18nexr",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"scripts": {
 		"prepublishOnly": "npm run build",
 		"build": "rm -rf dist && pkgroll --minify && tsup",
